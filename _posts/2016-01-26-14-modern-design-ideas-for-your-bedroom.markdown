@@ -6,7 +6,7 @@ layout: post
 <style media="screen" type="text/css">
 
 img {
-max-widht: 100%
+max-widht: 100%;
 height: auto;
 }
 
@@ -133,8 +133,5 @@ If you are in Cape Town/ Johannesburg and surrounds, stop at your nearest Bed Ki
 ​
 Article source: https://www.amara.com/luxpad/bedroom-decorating-ideas/</div>
 </div>
-<div class="blog-social  ">
-<div class="blog-social-item blog-fb-like"><iframe class="" title="fb:like Facebook Social Plugin" src="http://www.facebook.com/v2.2/plugins/like.php?action=like&amp;app_id=190291501407&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df16328173c%26domain%3Denchantedbybeautifulbedrooms.weebly.com%26origin%3Dhttp%253A%252F%252Fenchantedbybeautifulbedrooms.weebly.com%252Ff1a63045%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F1%2Fpost%2F2016%2F01%2F14-modern-design-ideas-for-your-bedroom.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false&amp;width=90" name="f2117757cc" width="90px" height="1000px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="blog-social-item"><iframe id="twitter-widget-0" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.baa54ded21a982344c4ced326592f3de.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F&amp;size=m&amp;text=14%20Modern%20Design%20Ideas%20For%20Your%20Bedroom%20-%20Enchanted%20by%20Beautiful%20Bedrooms&amp;time=1453793482131&amp;type=share&amp;url=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F1%2Fpost%2F2016%2F01%2F14-modern-design-ideas-for-your-bedroom.html" width="300" height="150" frameborder="0" scrolling="no" data-url="http://enchantedbybeautifulbedrooms.weebly.com/1/post/2016/01/14-modern-design-ideas-for-your-bedroom.html"></iframe></div>
-<div></div>
+</div>
 </div>
