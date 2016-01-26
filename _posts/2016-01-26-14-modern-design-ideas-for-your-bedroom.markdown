@@ -3,6 +3,15 @@ published: true
 title: 14 Modern Design Ideas For Your Bedroom
 layout: post
 ---
+<style media="screen" type="text/css">
+
+img {
+max-widht: 100%
+height: auto;
+}
+
+</style>
+
 <div id="blog-post-516812760809558413" class="blog-post">
 <div class="blog-content">
 <div class="paragraph">Here at Bed King we are always on the lookout for beautiful bedroom design ideas. When we found this article we just had to share it with you! Read on and enjoy!
@@ -128,59 +137,4 @@ Article source: https://www.amara.com/luxpad/bedroom-decorating-ideas/</div>
 <div class="blog-social-item blog-fb-like"><iframe class="" title="fb:like Facebook Social Plugin" src="http://www.facebook.com/v2.2/plugins/like.php?action=like&amp;app_id=190291501407&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df16328173c%26domain%3Denchantedbybeautifulbedrooms.weebly.com%26origin%3Dhttp%253A%252F%252Fenchantedbybeautifulbedrooms.weebly.com%252Ff1a63045%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F1%2Fpost%2F2016%2F01%2F14-modern-design-ideas-for-your-bedroom.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false&amp;width=90" name="f2117757cc" width="90px" height="1000px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="blog-social-item"><iframe id="twitter-widget-0" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.baa54ded21a982344c4ced326592f3de.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F&amp;size=m&amp;text=14%20Modern%20Design%20Ideas%20For%20Your%20Bedroom%20-%20Enchanted%20by%20Beautiful%20Bedrooms&amp;time=1453793482131&amp;type=share&amp;url=http%3A%2F%2Fenchantedbybeautifulbedrooms.weebly.com%2F1%2Fpost%2F2016%2F01%2F14-modern-design-ideas-for-your-bedroom.html" width="300" height="150" frameborder="0" scrolling="no" data-url="http://enchantedbybeautifulbedrooms.weebly.com/1/post/2016/01/14-modern-design-ideas-for-your-bedroom.html"></iframe></div>
 <div></div>
-</div>
-<div class="blog-comments-bottom"><a class="blog-link" href="http://enchantedbybeautifulbedrooms.weebly.com/blog/14-modern-design-ideas-for-your-bedroom#comments">0 Comments</a></div>
-<div class="blog-post-separator"></div>
-</div>
-<div id="blog-post-615222409433342701" class="blog-post">
-<div class="blog-header">
-<h2 class="blog-title"><a class="blog-title-link blog-link" href="http://enchantedbybeautifulbedrooms.weebly.com/blog/our-favourite-bedroom-designs-of-2015">Our Favourite Bedroom Designs of 2015!</a></h2>
-<p class="blog-date"><span class="date-text">1/7/2016</span></p>
-<p class="blog-comments"><a class="blog-link" href="http://enchantedbybeautifulbedrooms.weebly.com/blog/our-favourite-bedroom-designs-of-2015#comments">0 Comments</a></p>
-
-</div>
-<div class="blog-separator"></div>
-<div class="blog-content">
-<div class="paragraph">As we kick start the New Year and shake away the holiday blues, we share our favourite bedroom designs of 2015! Can’t wait to see what 2016 dishes up! The bedroom is one place where your personal taste, style and choices override fashionable trends and the latest design styles. Yet you can always find that perfect balance between what is ‘in’ and what you love to create a serene and truly chic bedroom.</div>
-<h2 class="wsite-content-title">Mid-Century Modern Flair!</h2>
-<div class="paragraph">It was more than a couple of years ago when the first wave of Midcentury modern designs started to really make a huge impact on the global stage. Television shows like<a href="http://www.decoist.com/2012-03-25/mid-century-modern-design-ideas-inspired-by-mad-men/"> Mad Men fueled this trend</a> even further, and today we see almost every home turning towards a timeless Midcentury piece to elevate the appeal of its interior. 2015 will see this trend shaping the bedroom with iconic Midcentury decor making its way into the bedroom. But it is not furniture alone that will set the tone, as simple, clean lines coupled with bold colors add to this vibrant theme. We also see this type of design working well for kids’ rooms with brightly painted <a href="http://www.bedking.co.za/bunk-beds.html">bunk beds</a> or even <a href="http://www.bedking.co.za/sleeper-couches/">sleeper couches</a> in a teenager’s room!</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/3695655_orig.jpg" alt="Picture" /></a>
-<div>Add Midcentury decor to spice up your contemporary bedroom [Design: Supon Phornirunlit / Naked Decor]</div>
-</div>
-</div>
-<div class="paragraph">While the retro magic of the ’60s finds its way into our homes in the form of Midcentury style, make sure that you put a modern spin on it. Combine these loud and audacious elements with contemporary aesthetics and sleek silhouettes to achieve the ideal balance. Curvy accent additions and colorful wallpaper help accentuate this look.</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/4354199_orig.jpg" alt="Picture" /></a>
-<div>Cozy bedroom has a stylish, relaxing ambiance [Design: Jamie Bush &amp; Co.]</div>
-</div>
-</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/8821510_orig.jpg" alt="Picture" /></a>
-<div>Understated platform bed is perfect for the Midcentury modern bedroom [Design: Tara Bussema – Neat Organization and Design]</div>
-</div>
-</div>
-<h2 class="wsite-content-title">Reinvent Antique and Rustic Looks</h2>
-<div class="paragraph">We did discuss how copper is increasingly becoming the most popular metallic accent when it comes to 2015 kitchen trends. The influx of metallic additions with golden hues into the bedroom along with a shift towards more nature-centric designs means that 2015 is the time to try out the chic rustic style in the bedroom. Once again, think about a blend of modern and rustic elements instead of fully committing to just one style. <a href="http://www.bedking.co.za/">Beds</a> with an iron frame, ornate chandeliers and natural wood walls work beautifully with this bedroom style. Note, look out to use less bulky, thinner <a href="http://www.bedking.co.za/mattresses/">mattresses</a> in this design. Also add an antique piece or two to truly give the room an inimitable and exclusive vibe.</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/9125785_orig.jpg" alt="Picture" /></a>
-<div>Antique sewing machines used as bedside tables [Design: Southern Traditions Window Fashions]</div>
-</div>
-</div>
-<h2 class="wsite-content-title">Refreshing Green Elegance</h2>
-<div class="paragraph">Do you decorate your bedside table with a lovely vase filled with seasonal flowers? While that does add beauty and a touch of feminine charm to the space, why not go a step further this year by filling the lonely corner with a potted plant. Plants may seem like a simple addition that you might even overlook while browsing through bedroom design ideas, but they make a big difference to both the aesthetics and the quality of the room’s atmosphere. Those with smaller bedrooms can turn towards living wall systems to usher in some greenery. Also, try opening up your bedroom towards the garden or the green canopy outside to give the space an energizing, natural backdrop.</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/5314263_orig.jpg" alt="Picture" /></a>
-<div>Gorgeous living wall installations in the bedroom [Design: Lindy Donnelly]</div>
-</div>
-</div>
-<h2 class="wsite-content-title">Bold, Rich Hues</h2>
-<div class="paragraph">If bright accent colors were popular for the last few years, expect the coming year to turn up the volume and embrace rich, vibrant hues in a more elaborate fashion when it comes to bedroom color palettes. Pantone has already crowned the exciting Marsala as its color of the year, and luxurious purples, sumptuous yellows and dark greens will also be preferred ahead of boring beige and simple white, even in the bedroom. If you’re less certain about committing to such rich hues, then use bedding, drapes or pillows in the color before making more permanent changes.</div>
-<div>
-<div class="wsite-image wsite-image-border-none "><a><img src="http://enchantedbybeautifulbedrooms.weebly.com/uploads/6/5/6/8/65680025/8990327_orig.jpg" alt="Picture" /></a>
-<div>Purple velvet brings an air of luxury to the small bedroom [Design: Amy Noel Design]</div>
-</div>
-</div>
-<div class="paragraph">Article and image source: http://www.decoist.com/2015-01-06/bedroom-design-trends-2015/</div>
-</div>
 </div>
