@@ -6,7 +6,7 @@ layout: post
 <style media="screen" type="text/css">
 
 img {
-max-widht: 100%;
+max-width: 100%;
 height: auto;
 }
 
